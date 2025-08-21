@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{21B32D16-B159-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGreatestNumber", "TheGratestNumber\TheGreatestNumber.csproj", "{19BFC903-BB7C-432A-B3A9-23512FCE4BBE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03", "03", "{99D5F9DE-5C67-4B5B-97C5-2964615F340B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ordentresnum", "ordentresnum\ordentresnum.csproj", "{83393798-2011-4D80-B57B-56A9B3C7D57F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{19BFC903-BB7C-432A-B3A9-23512FCE4BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19BFC903-BB7C-432A-B3A9-23512FCE4BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19BFC903-BB7C-432A-B3A9-23512FCE4BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83393798-2011-4D80-B57B-56A9B3C7D57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83393798-2011-4D80-B57B-56A9B3C7D57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83393798-2011-4D80-B57B-56A9B3C7D57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83393798-2011-4D80-B57B-56A9B3C7D57F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E68279AE-F501-4194-8A7D-1DBECF76A5B9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{19BFC903-BB7C-432A-B3A9-23512FCE4BBE} = {21B32D16-B159-4D20-A918-0370E0DD8FD9}
+		{83393798-2011-4D80-B57B-56A9B3C7D57F} = {99D5F9DE-5C67-4B5B-97C5-2964615F340B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D9AF752F-E897-46A2-835D-3A32DE28CEC0}
